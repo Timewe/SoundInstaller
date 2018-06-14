@@ -5,6 +5,6 @@
 
 基于.NET4.7开发，运行需要先安装.NET Framework4.7或者以上版本的
 
-软件官网： https:www.timeweii.com/sound.html
+软件官网： https://www.timeweii.com/sound.html
 
 更多介绍请访问软件官网！
